@@ -90,7 +90,6 @@ Ready to transform your business with AI? Let's discuss how we can help.
 
 - **Website**: [riseaiconsulting.com](https://riseaiconsulting.com)
 - **Email**: info@riseaiconsulting.com
-- **LinkedIn**: [Rise AI Consulting](https://linkedin.com/company/rise-ai-consulting)
 
 
 ## 📄 License
